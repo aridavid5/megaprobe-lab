@@ -4,9 +4,7 @@ Category: People
 Tags: TCGA
 
 # Bio: 
-   - Hello! I'm Arístides, and I am extremely passionate about personal and social health.  I have a studied different complementary 
-   health practices and am currently a pre-med student in the University of Puerto Rico - Rio Piedras campus.  My long term goals are 
-   to become a family medicine practitioner, and fuse said practice with complementary practices.
+   - Hello! I'm Arístides, and I am extremely passionate about personal and social health.  I have a studied different complementary health practices and am currently a pre-med student in the University of Puerto Rico - Rio Piedras campus.  My long term goals are to become a family medicine practitioner, and fuse said practice with complementary practices.
     
 # Humor of the week:
 
@@ -32,3 +30,5 @@ Tags: TCGA
    - Gained access to MegaProbe Lab
    - Started to learn about TCGA
    - Started research on GBM   
+
+[#create an anchor](#anchors-in-markdown)
